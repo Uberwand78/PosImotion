@@ -1,2 +1,2 @@
 # PosImotion
-Generate positivity through this program
+Generate daily positivity through this program. 
