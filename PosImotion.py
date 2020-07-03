@@ -1,7 +1,7 @@
 from tkinter import *
 
 win = Tk()
-win.title("Posimotion")
+win.title("PosImotion")
 win.geometry("700x177")
 win.configure(background="light blue")
 
